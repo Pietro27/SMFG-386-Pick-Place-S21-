@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# SMFG 386 – Manufacturing Automation Systems
+# Pick and Place Project
 
 You can use the [editor on GitHub](https://github.com/Pietro27/SMFG-386-Pick-Place-S21-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
