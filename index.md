@@ -1,16 +1,37 @@
-# SMFG 386 – Manufacturing Automation Systems
-# Pick and Place Project
+# SMFG 386 – Pick and Place Project
+Spring 2021, California State University, Chico
 
-You can use the [editor on GitHub](https://github.com/Pietro27/SMFG-386-Pick-Place-S21-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Table of Contents
+1. Project Team
+2. Project Management
+3. Requirements
+4. Software
+5. Hardware
+6. Simulation and Digital Twin
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 1. Project Team
+### Project Advisor:
+Hasan Sinan Bank; hsbank@mail.csuchico.edu
 
-### Markdown
+### Team Members:
+Pietro Ruggiero
+Justin Bos
+Esiah Smith
+Dave Gorans
+Clint Holister
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Project Management
 
-```markdown
-Syntax highlighted code block
+# Requirements
+
+
+# Software
+
+# Hardware
+
+# System
+
+# Simulation and Digital Twin
 
 # Header 1
 ## Header 2
@@ -24,16 +45,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-![image](https://user-images.githubusercontent.com/80643856/119052894-21412c00-b97a-11eb-9483-a92a321bceff.png)
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pietro27/SMFG-386-Pick-Place-S21-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
