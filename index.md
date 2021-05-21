@@ -78,9 +78,6 @@ The design of the pick and place machine incorporates two bases with designated 
 #### Bill of Materials
 [Bill of Materials Download](https://github.com/Pietro27/SMFG-386-Pick-Place-S21-/files/6519613/Bill.of.Materials.xlsx)
 
-#### CAD Model
-[CAD Model at OnShape.com](https://cad.onshape.com/documents/6252e15e970ac1938780f928/w/20633151d95dba67da3a3823/e/bd24fccf74d4b5e793805942)
-
 ##### Isometric View
 ![image](https://user-images.githubusercontent.com/80643856/119072661-b7884880-b9a0-11eb-9a16-bb77ba2844f7.png)
 
@@ -98,7 +95,9 @@ The design of the pick and place machine incorporates two bases with designated 
 ##### Physical Viewpoint
 ![image](https://user-images.githubusercontent.com/80643856/119097375-7e180300-b9c9-11eb-8c60-9d1b21d82c73.png)
 
-## 8. Simulation and Digital Twin
+## 8. Simulation
+#### CAD Model
+[CAD Model at OnShape.com](https://cad.onshape.com/documents/6252e15e970ac1938780f928/w/20633151d95dba67da3a3823/e/bd24fccf74d4b5e793805942)
 
 ----------------------------------------------------------------------------------------------------------
 **Bold** and _Italic_ and `Code` text
