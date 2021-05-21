@@ -13,7 +13,7 @@ Spring 2021, California State University, Chico
 
 ## 1. Project Team
 #### Project Advisor:
-Hasan Sinan Bank; hsbank@mail.csuchico.edu
+Hasan Sinan Bank
 
 #### Team Members:
 Pietro Ruggiero
