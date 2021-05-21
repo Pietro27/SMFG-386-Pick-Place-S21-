@@ -24,7 +24,7 @@ Clint Holister
 ### 2. Project Management
 #### Executive Summary
 As the world continues to advance technologically and almost everything containing computer components, the manufacturing of PCBs and their components needs to continue and evolve to keep up with the demand.
-This project aims to design a robotic system to place components on a board. In addition to designing the system, the electronic construction and coding of the robot will be developed.
+In this project, the team will design a pick and place machine to pick components for building electronic prototyping boards. This machine will automate, simplify, and speed up the production process while minimizing the potential errors. These types of machines are specifically used to pick up and place surface-mounted devices onto a printed circuit-board.
 
 #### PM @ RD Project Preparation
 The project manager will organize the team to ensure that requirements and deadlines are met. He will ensure that their in constant and clear communication between team members as to avoid any errors or delays.
