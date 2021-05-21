@@ -97,7 +97,7 @@ The design of the pick and place machine incorporates two bases with designated 
 
 ## 8. Simulation
 #### CAD Model
-[CAD Model at OnShape.com](https://cad.onshape.com/documents/6252e15e970ac1938780f928/w/20633151d95dba67da3a3823/e/bd24fccf74d4b5e793805942)
+[OnShape Pick-and-Place CAD Model](https://cad.onshape.com/documents/6252e15e970ac1938780f928/w/20633151d95dba67da3a3823/e/bd24fccf74d4b5e793805942)
 
 ----------------------------------------------------------------------------------------------------------
 **Bold** and _Italic_ and `Code` text
