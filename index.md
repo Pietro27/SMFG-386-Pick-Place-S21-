@@ -77,7 +77,7 @@ Code code code code code
 
 ## 6. Hardware
 #### Bill of Materials
-[Bill of Materials Download](https://github.com/Pietro27/SMFG-386-Pick-Place-S21-/files/6519613/Bill.of.Materials.xlsx)
+[BOM Download](https://github.com/Pietro27/SMFG-386-Pick-Place-S21-/files/6519613/Bill.of.Materials.xlsx)
 
 ##### Isometric View
 ![image](https://user-images.githubusercontent.com/80643856/119072661-b7884880-b9a0-11eb-9a16-bb77ba2844f7.png)
