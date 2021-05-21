@@ -55,7 +55,9 @@ blank blank blank
 - blank blank blank
 
 ## 4. Brainstorming
-A gantry style pick and place machine consists of three stepper motors and it will be used to move the end-effector along the X, Y, and Z axis of the machine. As indicated in the physical system diagram below (Fig.1), there is a vacuum nozzle attached to the end-effector that picks up each component and then moves them over the designated position on the electronic prototyping board. The components are then gently placed onto the board at which point, once completed, the user will remove the board and place a new one in its place along with additional components if needed.
+A gantry style pick and place machine consists of three stepper motors and it will be used to move the end-effector along the X, Y, and Z axis of the machine. As indicated in the physical system diagram below, there is a vacuum nozzle attached to the end-effector that picks up each component and then moves them over the designated position on the electronic prototyping board. The components are then gently placed onto the board at which point, once completed, the user will remove the board and place a new one in its place along with additional components if needed.
+
+The design of the pick and place machine incorporates two bases with designated slots for each individual component and boards. On the left side of the machine would sit the components in specified locations and on the right side would sit the boards. By doing so, we are able to simplify the system requirement by preprogramming the end-effector to always return to and move to designated locations. Various other machines can be integrated with this one in order to reduce the amount of human interaction if needed. 
 
 ##### Top View
 ![image](https://user-images.githubusercontent.com/80643856/119094644-275cfa00-b9c6-11eb-9089-6bfad969cbe6.png)
