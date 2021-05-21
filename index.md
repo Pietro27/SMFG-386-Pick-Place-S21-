@@ -76,7 +76,7 @@ The design of the pick and place machine incorporates two bases with designated 
 
 ## 6. Hardware
 #### Bill of Materials
-[Bill of Materials.xlsx](https://github.com/Pietro27/SMFG-386-Pick-Place-S21-/files/6519613/Bill.of.Materials.xlsx)
+[Bill of Materials Download](https://github.com/Pietro27/SMFG-386-Pick-Place-S21-/files/6519613/Bill.of.Materials.xlsx)
 
 #### CAD Model
 [CAD Model at OnShape.com](https://cad.onshape.com/documents/6252e15e970ac1938780f928/w/20633151d95dba67da3a3823/e/bd24fccf74d4b5e793805942)
