@@ -16,11 +16,7 @@ Spring 2021, California State University, Chico
 Hasan Sinan Bank
 
 #### Team Members:
-Pietro Ruggiero
-Justin Bos
-Esiah Smith
-Dave Gorans
-Clint Holister
+Pietro Ruggiero, Justin Bos, Esiah Smith, Dave Gorans, Clint Holister
 
 ## 2. Project Management
 #### Executive Summary
