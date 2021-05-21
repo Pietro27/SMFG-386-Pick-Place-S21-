@@ -60,7 +60,19 @@ blank blank blank
 [Bill of Materials.xlsx](https://github.com/Pietro27/SMFG-386-Pick-Place-S21-/files/6519613/Bill.of.Materials.xlsx)
 
 #### CAD Model
-https://cad.onshape.com/documents/6252e15e970ac1938780f928/w/20633151d95dba67da3a3823/e/bd24fccf74d4b5e793805942
+[CAD Model at OnShape.com](https://cad.onshape.com/documents/6252e15e970ac1938780f928/w/20633151d95dba67da3a3823/e/bd24fccf74d4b5e793805942)
+![image](https://user-images.githubusercontent.com/80643856/119072661-b7884880-b9a0-11eb-9a16-bb77ba2844f7.png)
+Isometric View
+
+![image](https://user-images.githubusercontent.com/80643856/119072715-ce2e9f80-b9a0-11eb-8946-a5f0d813f139.png)
+Front View
+
+![image](https://user-images.githubusercontent.com/80643856/119072761-e999aa80-b9a0-11eb-8f9c-c39de218aac9.png)
+Right View
+
+![image](https://user-images.githubusercontent.com/80643856/119072821-03d38880-b9a1-11eb-8797-b3a022a31a48.png)
+
+Top View
 
 ### 6. System
 
