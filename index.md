@@ -5,12 +5,13 @@ Spring 2021, California State University, Chico
 1. Project Team
 2. Project Management
 3. Requirements
-4. Software
-5. Hardware
-6. System
-7. Simulation and Digital Twin
+4. Brainstorming
+5. Software
+6. Hardware
+7. System
+8. Simulation and Digital Twin
 
-### 1. Project Team
+## 1. Project Team
 #### Project Advisor:
 Hasan Sinan Bank; hsbank@mail.csuchico.edu
 
@@ -21,7 +22,7 @@ Esiah Smith
 Dave Gorans
 Clint Holister
 
-### 2. Project Management
+## 2. Project Management
 #### Executive Summary
 As the world continues to advance technologically and almost everything containing computer components, the manufacturing of PCBs and their components needs to continue and evolve to keep up with the demand.
 In this project, the team will design a pick and place machine to pick components for building electronic prototyping boards. This machine will automate, simplify, and speed up the production process while minimizing the potential errors. These types of machines are specifically used to pick up and place surface-mounted devices onto a printed circuit-board.
@@ -36,7 +37,7 @@ The CAD and physical structure of the robot were prepared for the team by our pr
 #### The Completion of the Project Setup
 blank blank blank
 
-### 3. Requirements
+## 3. Requirements
 #### 2.1 System Specific Requirements
 2.1.1 Identify and engineer the HW and SW requirements
 - Able to move in the X, Y, Z axis
@@ -53,30 +54,39 @@ blank blank blank
 2.2.2 Integration Test Plan
 - blank blank blank
 
-### 4. Software
+## 4. Brainstorming
+A gantry style pick and place machine consists of three stepper motors and it will be used to move the end-effector along the X, Y, and Z axis of the machine. As indicated in the physical system diagram below (Fig.1), there is a vacuum nozzle attached to the end-effector that picks up each component and then moves them over the designated position on the electronic prototyping board. The components are then gently placed onto the board at which point, once completed, the user will remove the board and place a new one in its place along with additional components if needed.
 
-### 5. Hardware
+##### Top View
+![image](https://user-images.githubusercontent.com/80643856/119094644-275cfa00-b9c6-11eb-9089-6bfad969cbe6.png)
+
+##### Side View
+![image](https://user-images.githubusercontent.com/80643856/119094677-32178f00-b9c6-11eb-9908-a240ad9cdfb5.png)
+
+## 5. Software
+
+## 6. Hardware
 #### Bill of Materials
 [Bill of Materials.xlsx](https://github.com/Pietro27/SMFG-386-Pick-Place-S21-/files/6519613/Bill.of.Materials.xlsx)
 
 #### CAD Model
 [CAD Model at OnShape.com](https://cad.onshape.com/documents/6252e15e970ac1938780f928/w/20633151d95dba67da3a3823/e/bd24fccf74d4b5e793805942)
+
+##### Isometric View
 ![image](https://user-images.githubusercontent.com/80643856/119072661-b7884880-b9a0-11eb-9a16-bb77ba2844f7.png)
-Isometric View
 
+##### Front View
 ![image](https://user-images.githubusercontent.com/80643856/119072715-ce2e9f80-b9a0-11eb-8946-a5f0d813f139.png)
-Front View
 
+##### Right View
 ![image](https://user-images.githubusercontent.com/80643856/119072761-e999aa80-b9a0-11eb-8f9c-c39de218aac9.png)
-Right View
 
+##### Top View
 ![image](https://user-images.githubusercontent.com/80643856/119072821-03d38880-b9a1-11eb-8797-b3a022a31a48.png)
 
-Top View
+## 7. System
 
-### 6. System
-
-### 7. Simulation and Digital Twin
+## 8. Simulation and Digital Twin
 
 ----------------------------------------------------------------------------------------------------------
 **Bold** and _Italic_ and `Code` text
