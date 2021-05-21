@@ -59,11 +59,18 @@ A gantry style pick and place machine consists of three stepper motors and it wi
 
 The design of the pick and place machine incorporates two bases with designated slots for each individual component and boards. On the left side of the machine would sit the components in specified locations and on the right side would sit the boards. By doing so, we are able to simplify the system requirement by preprogramming the end-effector to always return to and move to designated locations. Various other machines can be integrated with this one in order to reduce the amount of human interaction if needed. 
 
+### Conceptual Physical System
 ##### Top View
 ![image](https://user-images.githubusercontent.com/80643856/119094644-275cfa00-b9c6-11eb-9089-6bfad969cbe6.png)
 
 ##### Side View
 ![image](https://user-images.githubusercontent.com/80643856/119094677-32178f00-b9c6-11eb-9908-a240ad9cdfb5.png)
+
+### Program Logic
+![image](https://user-images.githubusercontent.com/80643856/119096993-18c41200-b9c9-11eb-901a-a3f4067b143b.png)
+
+### Flow of Machine Operation
+![image](https://user-images.githubusercontent.com/80643856/119097068-2d080f00-b9c9-11eb-9773-c669b6cf02c5.png)
 
 ## 5. Software
 
@@ -87,6 +94,8 @@ The design of the pick and place machine incorporates two bases with designated 
 ![image](https://user-images.githubusercontent.com/80643856/119072821-03d38880-b9a1-11eb-8797-b3a022a31a48.png)
 
 ## 7. System
+
+#### Physical Viewpoint
 
 ## 8. Simulation and Digital Twin
 
