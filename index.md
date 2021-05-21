@@ -62,12 +62,6 @@ The design of the pick and place machine incorporates two bases with designated 
 ##### Side View
 ![image](https://user-images.githubusercontent.com/80643856/119094677-32178f00-b9c6-11eb-9908-a240ad9cdfb5.png)
 
-##### Program Logic
-![image](https://user-images.githubusercontent.com/80643856/119096993-18c41200-b9c9-11eb-901a-a3f4067b143b.png)
-
-##### Flow of Machine Operation
-![image](https://user-images.githubusercontent.com/80643856/119097068-2d080f00-b9c9-11eb-9773-c669b6cf02c5.png)
-
 ## 5. Software
 Code code code code code
 
@@ -88,9 +82,17 @@ Code code code code code
 ![image](https://user-images.githubusercontent.com/80643856/119072821-03d38880-b9a1-11eb-8797-b3a022a31a48.png)
 
 ## 7. System
+##### Program Logic
+![image](https://user-images.githubusercontent.com/80643856/119096993-18c41200-b9c9-11eb-901a-a3f4067b143b.png)
+
+##### Flow of Machine Operation
+![image](https://user-images.githubusercontent.com/80643856/119097068-2d080f00-b9c9-11eb-9773-c669b6cf02c5.png)
 
 ##### Physical Viewpoint
 ![image](https://user-images.githubusercontent.com/80643856/119097375-7e180300-b9c9-11eb-8c60-9d1b21d82c73.png)
+
+##### Capabilities Database
+![image](https://user-images.githubusercontent.com/80643856/119102337-c4bc2c00-b9ce-11eb-957e-f4dc23e2498c.png)
 
 ## 8. Simulation
 #### CAD Model
