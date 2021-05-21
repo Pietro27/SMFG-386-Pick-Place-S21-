@@ -7,7 +7,8 @@ Spring 2021, California State University, Chico
 3. Requirements
 4. Software
 5. Hardware
-6. Simulation and Digital Twin
+6. System
+7. Simulation and Digital Twin
 
 ### 1. Project Team
 #### Project Advisor:
@@ -20,7 +21,7 @@ Esiah Smith
 Dave Gorans
 Clint Holister
 
-## Project Management
+### 2. Project Management
 #### Executive Summary
 As the world continues to advance technologically and almost everything containing computer components, the manufacturing of PCBs and their components needs to continue and evolve to keep up with the demand.
 This project aims to design a robotic system to place components on a board. In addition to designing the system, the electronic construction and coding of the robot will be developed.
@@ -35,7 +36,7 @@ The CAD and physical structure of the robot were prepared for the team by our pr
 #### The Completion of the Project Setup
 blank blank blank
 
-## Requirements
+### 3. Requirements
 #### 2.1 System Specific Requirements
 2.1.1 Identify and engineer the HW and SW requirements
 - Able to move in the X, Y, Z axis
@@ -52,24 +53,20 @@ blank blank blank
 2.2.2 Integration Test Plan
 - blank blank blank
 
-## Software
+### 4. Software
 
-## Hardware
+### 5. Hardware
+#### Bill of Materials
+[Bill of Materials.xlsx](https://github.com/Pietro27/SMFG-386-Pick-Place-S21-/files/6519613/Bill.of.Materials.xlsx)
 
-## System
+#### CAD Model
+https://cad.onshape.com/documents/6252e15e970ac1938780f928/w/20633151d95dba67da3a3823/e/bd24fccf74d4b5e793805942
 
-## Simulation and Digital Twin
+### 6. System
 
-# Header 1
-## Header 2
-### Header 3
+### 7. Simulation and Digital Twin
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
+----------------------------------------------------------------------------------------------------------
 **Bold** and _Italic_ and `Code` text
 
 
