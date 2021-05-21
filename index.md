@@ -31,7 +31,7 @@ For this project, we plan to control the robot using an Arduino. The coding will
 The CAD and physical structure of the robot were prepared for the team by our project advisor.
 
 #### The Completion of the Project Setup
-blank blank blank
+blank blank blank blank blank blank blank blank blank blank
 
 ## 3. Requirements
 #### 2.1 System Specific Requirements
