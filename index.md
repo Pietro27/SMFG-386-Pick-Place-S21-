@@ -79,12 +79,11 @@ Code code code code code
 ![image](https://user-images.githubusercontent.com/80643856/119072821-03d38880-b9a1-11eb-8797-b3a022a31a48.png)
 
 ## 7. System
+
 ##### Program Logic
 ![image](https://user-images.githubusercontent.com/80643856/119215982-d4e31280-ba85-11eb-8af3-5966461b02a7.png)
-![image](https://user-images.githubusercontent.com/80643856/119217515-8c305700-ba8f-11eb-9c0a-99da4c901951.png)
 
 ##### Zoomed-in view of driver to stepper motor connection
-
 ![image](https://user-images.githubusercontent.com/80643856/119215992-e5938880-ba85-11eb-9eb1-4aa110578bab.png)
 
 ##### Flow of Machine Operation
