@@ -83,7 +83,8 @@ Code code code code code
 
 ## 7. System
 ##### Program Logic
-![image](https://user-images.githubusercontent.com/80643856/119096993-18c41200-b9c9-11eb-901a-a3f4067b143b.png)
+![image](https://user-images.githubusercontent.com/80643856/119215982-d4e31280-ba85-11eb-8af3-5966461b02a7.png)
+![image](https://user-images.githubusercontent.com/80643856/119215992-e5938880-ba85-11eb-9eb1-4aa110578bab.png)
 
 ##### Flow of Machine Operation
 ![image](https://user-images.githubusercontent.com/80643856/119097068-2d080f00-b9c9-11eb-9773-c669b6cf02c5.png)
