@@ -60,7 +60,7 @@ The design of the pick and place machine incorporates two bases with designated 
 ![image](https://user-images.githubusercontent.com/80643856/119094677-32178f00-b9c6-11eb-9908-a240ad9cdfb5.png)
 
 ## 5. Software
-Code code code code code
+Code Unavailable
 
 ## 6. Hardware
 #### Bill of Materials
@@ -101,8 +101,3 @@ Code code code code code
 
 ----------------------------------------------------------------------------------------------------------
 **Bold** and _Italic_ and `Code` text
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
