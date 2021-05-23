@@ -45,7 +45,7 @@ The CAD and physical structure of the robot were prepared for the team by our pr
 - The scenario for this project would consist of a circuit board being placed on one base and the components on a different base. The robot would then come down, pick up the component, move up and over the board, come down, and gently place the component onto the board to then later be soldered.
 
 2.2.2 Integration Test Plan
-- blank blank blank
+- The plan is to set up the robot with non-functional boards and components in place to ensure the project is working as designed and not damaging any of the parts being moved.
 
 ## 4. Brainstorming
 A gantry style pick and place machine consists of three stepper motors and it will be used to move the end-effector along the X, Y, and Z axis of the machine. As indicated in the physical system diagram below, there is a vacuum nozzle attached to the end-effector that picks up each component and then moves them over the designated position on the electronic prototyping board. The components are then gently placed onto the board at which point, once completed, the user will remove the board and place a new one in its place along with additional components if needed.
@@ -60,7 +60,7 @@ The design of the pick and place machine incorporates two bases with designated 
 ![image](https://user-images.githubusercontent.com/80643856/119094677-32178f00-b9c6-11eb-9908-a240ad9cdfb5.png)
 
 ## 5. Software
-Code Unavailable
+[PNP Ladder Logic.zip](https://github.com/Pietro27/SMFG-386-Pick-Place-S21-/files/6528898/Group.1.PNP.ladder.logic.zip)
 
 ## 6. Hardware
 #### Bill of Materials
